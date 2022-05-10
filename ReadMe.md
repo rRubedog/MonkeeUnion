@@ -1,6 +1,7 @@
 # This is the **Monkee Union** official-*ish* website
-## Info
 
+## Info
+This website is where the **Monkee Union** will be controlled and run.  
 ## Members *(As of May 10th, 2022)*
 The current members include:
 >1. Connor
