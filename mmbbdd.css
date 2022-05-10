@@ -1,0 +1,271 @@
+@media only screen and (max-width: 600px) {
+    .interior {
+border: 10px solid gold;
+background-image: darkgreen;
+color: white;
+padding: 4px;
+animation: rgb 20s infinite;
+}
+a {
+background-color: navajowhite;
+color: black;
+padding: 5px;
+border: solid 2px lightsteelblue;
+border-top-color: green;
+border-bottom-color: orange;
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 4px;
+padding-right: 10px;
+}
+button {
+padding: 4px;
+padding-bottom: 6px;
+padding-left: 6px;
+}
+
+html {
+background-color:black;
+}
+table{
+    border: orange 2px solid;
+}
+tr{
+    padding:1%;
+    transition: all ease 0.2s;
+    border: gold 2px solid;
+}
+.ch {
+    padding-right:10px;
+}
+tr:hover{
+    transition: all ease 0.2s;
+    padding:1.5%;
+    background-color:green;
+}
+#lnk {
+    transition: all ease 0.5s;
+    color:black;
+    padding:4px;
+    background-color:orange;
+    border:solid 2px darkorange;
+}
+.gorr {
+    position:absolute;
+    left:0px;
+}
+.gor {
+    position:absolute;
+    right:0px;
+}
+img {
+    display:none;
+}
+}
+@media only screen and (min-width: 600px) {
+    .interior {
+border: 10px solid gold;
+background-color: darkgreen;
+color: white;
+padding: 4px;
+animation: rgb 20s infinite;
+}
+a {
+background-color: navajowhite;
+color: black;
+padding: 5px;
+border: solid 2px lightsteelblue;
+border-top-color: green;
+border-bottom-color: orange;
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 4px;
+padding-right: 10px;
+}
+button {
+padding: 4px;
+padding-bottom: 6px;
+padding-left: 6px;
+}
+
+html {
+background-color:black;
+}
+table{
+    border: orange 2px solid;
+}
+th{
+    padding:1%;
+    transition: all ease 0.2s;
+    border: gold 2px solid;
+}
+.ch {
+    padding-right:10px;
+}
+th:hover{
+    transition: all ease 0.2s;
+    padding:1.5%;
+    background-color:green;
+}
+#lnk {
+    transition: all ease 0.5s;
+    color:black;
+    padding:4px;
+    background-color:orange;
+    border:solid 2px darkorange;
+}
+#lnk:hover {
+    border: solid 4px gold;
+    transition: all ease 0.5s;
+    padding:8px;
+}
+.gorr {
+    position:absolute;
+    left:0px;
+}
+.gor {
+    position:absolute;
+    right:0px;
+}
+img {
+    display:none;
+}
+}
+@media only screen and (min-width: 992px) {
+    .interior {
+border: 10px solid gold;
+background-color: darkgreen;
+color: white;
+padding: 4px;
+animation: rgb 20s infinite;
+}
+a {
+background-color: navajowhite;
+color: black;
+padding: 5px;
+border: solid 2px lightsteelblue;
+border-top-color: green;
+border-bottom-color: orange;
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 4px;
+padding-right: 10px;
+}
+button {
+padding: 4px;
+padding-bottom: 6px;
+padding-left: 6px;
+}
+
+html {
+background-color:black;
+}
+table{
+    border: orange 2px solid;
+}
+th{
+    padding:1%;
+    transition: all ease 0.2s;
+    border: gold 2px solid;
+}
+.ch {
+    padding-right:10px;
+}
+th:hover{
+    transition: all ease 0.2s;
+    padding:1.5%;
+    background-color:green;
+}
+#lnk {
+    transition: all ease 0.5s;
+    color:black;
+    padding:4px;
+    background-color:orange;
+    border:solid 2px darkorange;
+}
+#lnk:hover {
+    border: solid 4px gold;
+    transition: all ease 0.5s;
+    padding:8px;
+}
+.gorr {
+    position:absolute;
+    left:0px;
+}
+.gor {
+    position:absolute;
+    right:0px;
+}
+img {
+    display:none;
+}
+}
+@media only screen and (min-width: 1200px) {
+    .interior {
+border: 10px solid gold;
+background-color: darkgreen;
+color: white;
+padding: 4px;
+animation: rgb 20s infinite;
+}
+a {
+background-color: navajowhite;
+color: black;
+padding: 5px;
+border: solid 2px lightsteelblue;
+border-top-color: green;
+border-bottom-color: orange;
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 4px;
+padding-right: 10px;
+}
+button {
+padding: 4px;
+padding-bottom: 6px;
+padding-left: 6px;
+}
+
+html {
+background-color:black;
+}
+table{
+    border: orange 2px solid;
+}
+th{
+    padding:1%;
+    transition: all ease 0.2s;
+    border: gold 2px solid;
+}
+.ch {
+    padding-right:10px;
+}
+th:hover{
+    transition: all ease 0.2s;
+    padding:1.5%;
+    background-color:green;
+}
+#lnk {
+    transition: all ease 0.5s;
+    color:black;
+    padding:4px;
+    background-color:orange;
+    border:solid 2px darkorange;
+}
+#lnk:hover {
+    border: solid 4px gold;
+    transition: all ease 0.5s;
+    padding:8px;
+}
+.gorr {
+    position:absolute;
+    left:0px;
+}
+.gor {
+    position:absolute;
+    right:0px;
+}
+img {
+    display:block;
+}
+}
