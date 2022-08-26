@@ -48,8 +48,7 @@ tr{
 
 tr:hover{
     transition: all ease 0.2s;
-    padding:1.5%;
-    background-color:green;
+    background-color:darkgreen;
 }
 
 #lnk {
@@ -125,8 +124,7 @@ th{
 
 th:hover{
     transition: all ease 0.2s;
-    padding:1.5%;
-    background-color:green;
+    background-color:darkgreen;
 }
 
 #lnk {
@@ -208,8 +206,7 @@ th{
 
 th:hover{
     transition: all ease 0.2s;
-    padding:1.5%;
-    background-color:green;
+    background-color:darkgreen;
 }
 
 #lnk {
@@ -291,8 +288,7 @@ th{
 
 th:hover{
     transition: all ease 0.2s;
-    padding:1.5%;
-    background-color:green;
+    background-color:darkgreen;
 }
 
 #lnk {
