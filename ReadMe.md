@@ -12,7 +12,7 @@ The current members include:
 >6. Anthony*
 >7. Addalyn* 
 >8. Tyler
->*Members are unknown to still participate in the Monkee Union at the current time
+>**Members are unknown to still participate in the Monkee Union at the current time**
 
 ## History
 (This is where the story of the **Monkee Union** will be written)
