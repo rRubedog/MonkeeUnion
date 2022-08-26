@@ -1,89 +1,62 @@
-html {
-background-color:black;
-color:white;
-}
-
-#c {
-color:black;
-border:solid 8px darkgreen;
-background-color:yellowgreen;
-animation: rgb 60s infinite;
-height: 600px;
-}
-
-@keyframes rgb {
-    0%{ border-color: yellow; }
-    30%{ border-color: yellowgreen; }
-    70%{ border-color: green; }
-    100%{ border-color: yellow; }
+0%{ border-color: yellow; }
+30%{ border-color: yellowgreen; }
+70%{ border-color: green; }
+100%{ border-color: yellow; }
 }
 
 .mem {
-    color:black;
-    background-color:yellowgreen;
-    border:solid darkgreen 8px;
+color:black;
+background-color:yellowgreen;
+border:solid darkgreen 8px;
 }
 
 .memo {
-    color:black;
-    background-color:lightgreen;
-    border:solid green 8px;
-    text-align:left;
+color:black;
+background-color:lightgreen;
+border:solid green 8px;
+text-align:left;
 }
 
 li {
-    font-size: 50px;
+font-size: 50px;
 }
 
 #wel {
-    width:50%;
-    height:8%;
-    top:-25px;
-    animation: slide 4s infinite;
-    position:relative;
-    color: black;
-    text-shadow: 2px 2px grey;
+width: fit-content;
+height:8%;
+top:-100px;
+animation: slide 4s infinite;
+position:relative;
+color: black;
+text-shadow: 2px 2px grey;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
 }
 
 #w{
-    font-size:25px;
+justify-self: center;
+width: 100%;
+font-size:1.5em;
+padding-right: 0px;
 }
 
-@keyframes slide{
-    0%{ 
-        right: -10%;
-        border-right: green solid 45px;
-        border-left: transparent solid 0px;
-    }
-
-    50%{ 
-        right: 10%; 
-        border-right: transparent solid 0px;
-        border-left: green solid 45px;
-    }
-
-    100%{ 
-        right: -10%; 
-        border-right: green solid 45px;
-        border-left: transparent solid 0px;
-    }
-    
-}
 
 #lnk {
-    transition: all ease 0.5s;
-    color:black;
-    padding:4px;
-    background-color:orange;
-    border:solid 2px darkorange;
+transition: all ease 0.5s;
+color:black;
+padding:4px;
+background-color:orange;
+border:solid 2px darkorange;
 }
 
 #lnk:hover {
-    border: solid 4px gold;
-    transition: all ease 0.5s;
-    padding:8px;
+border: solid 4px gold;
+transition: all ease 0.5s;
+padding:8px;
 }
 
 h1{
-    border-bottom:gold solid 2px;
+border-bottom:gold solid 2px;
 }
